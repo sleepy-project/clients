@@ -7,6 +7,9 @@
 
 > *我是真心建议你过段时间再用, 还在重构呢*
 
+**Cross-platform** (跨平台):
+  - [Sleepy-GUI](#Sleepy-GUI) *(基于 JFX 的图形化客户端)*
+
 **Windows**:
   - [WinDevice](#WinDevice) *(已安装 Python 推荐)*
   - [Win_Simple](#Win_Simple) *(未安装 Python 推荐)*
@@ -41,6 +44,8 @@
 
 - [客户端文档](#客户端文档)
   - [快速跳转](#快速跳转)
+- [Cross-platform](#cross-platform)
+  - [Sleepy-GUI](#sleepy-gui)
 - [Windows](#windows)
   - [WinDevice](#windevice)
     - [配置](#配置)
@@ -106,6 +111,20 @@
 
 > [!TIP]
 > 欢迎提交 Issue / PR 贡献自己的脚本！
+
+# Sleepy-GUI
+> by: [@NoClassFoundError](https://github.com/NoClassFoundError)
+
+一个基于 JavaFX 的图形化客户端，支持 Windows/Linux/MacOS
+
+### 下载
+- [GitHub Release](https://github.com/sleepy-project/Sleepy-GUI/releases)
+
+### 配置
+- 按照 [快速开始](https://github.com/sleepy-project/Sleepy-GUI) 的教程启动后在"服务器连接"界面输入服务器地址和设备信息即可。更多设置详见"设置"页面。
+
+### 自启动
+- 打开"设置"页面里的"开机自启"选项即可。
 
 # Windows
 
